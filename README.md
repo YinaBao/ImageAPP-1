@@ -6,7 +6,7 @@ Install
 
 **Be sure to use the same version of the code as the version of the docs
 you're reading.** You probably want the latest tagged version, but the
-default Git version is the master branch. :
+default Git version is the master branch.
 
     # clone the repository
     $ git clone https://github.com/juew72/ImageAPP.git
@@ -37,7 +37,7 @@ Run
     $ flask init-db
     $ flask run
 
-Or on Windows cmd::
+Or on Windows cmd:
 
     > set FLASK_APP=flaskr
     > set FLASK_ENV=development
