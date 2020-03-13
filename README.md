@@ -11,10 +11,7 @@ default Git version is the master branch. ::
     # clone the repository
     $ git clone https://github.com/pallets/flask
     $ cd flask
-    # checkout the correct version
-    $ git tag  # shows the tagged versions
-    $ git checkout latest-tag-found-above
-    $ cd examples/tutorial
+
 
 Create a virtualenv and activate it if necessary
 
@@ -56,6 +53,6 @@ Or on Windows cmd::
 Open http://127.0.0.1:5000 in a browser (For local use only, change if use any cloud platform)
 
 
-### Image uploaded saved in /static/images/ directiory, and matched with database by image name.
+### Image uploaded saved in ../static/images directiory, and matched with database by image name.
 
 
