@@ -1,5 +1,4 @@
 # Final Project: Flask Web Application
-=====
 
 
 Install
@@ -41,7 +40,6 @@ installing Flaskr::
 Run
 ---
 
-::
 
     $ export FLASK_APP=flaskr
     $ export FLASK_ENV=development
