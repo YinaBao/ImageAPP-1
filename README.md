@@ -47,6 +47,6 @@ Or on Windows cmd:
 Open http://127.0.0.1:5000 in a browser (For local use only, change if use any cloud platform)
 
 
-Image uploaded saved in ../static/images directiory, and matched with database by image name.
+Image uploaded saved in ../static/images directory, and matched with database by image name.
 
 
